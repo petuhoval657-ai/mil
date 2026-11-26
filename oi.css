@@ -23,7 +23,7 @@ body {
 
   overflow-x: hidden;
 
-  background: blue;
+  background: ghostwhite;
 
 }
 
@@ -148,7 +148,7 @@ body {
 
 .container .box:nth-child(1):after {
 
-  background: linear-gradient(315deg, orange, red)
+  background: linear-gradient(315deg, pink, green)
 
 }
 
@@ -156,7 +156,7 @@ body {
 
 .container .box:nth-child(2):after {
 
-  background: linear-gradient(315deg, orange, purple)
+  background: linear-gradient(315deg, green, yellow)
 
 }
 
@@ -164,7 +164,7 @@ body {
 
 .container .box:nth-child(3):after {
 
-  background: linear-gradient(315deg, orange, pink)
+  background: linear-gradient(315deg, orange, red)
 
 }
 
@@ -172,7 +172,7 @@ body {
 
 .container .box:nth-child(4):after {
 
-  background: linear-gradient(315deg, green, yellow)
+  background: linear-gradient(315deg, blue, green)
 
 }
 
