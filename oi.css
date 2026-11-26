@@ -96,7 +96,7 @@ body {
 
   border-radius: 8px;
 
-  transform: skewX(15deg);
+  transform: skewX(-15deg);
 
   transition: 0.5s;
 
