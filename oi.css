@@ -57,9 +57,9 @@ body {
 
   position: relative;
 
-  width: 280px;
+  width: 320px;
 
-  height: 380px;
+  height: 400px;
 
   display: flex;
 
@@ -67,7 +67,7 @@ body {
 
   align-items: center;
 
-  margin: 20px 15px;
+  margin: 40px 30px;
 
   transition: 0.5s;
 
